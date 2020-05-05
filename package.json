@@ -2,7 +2,7 @@
   "name": "wdio-cucumber-appium-automation-boilerplate",
   "version": "1.0.0",
   "description": "This repository contains test automation boilerplate code for WebdriverIO-v5 / Cucumber with Appium",
-  "author": "Mutual Mobile",
+  "author": "Abhishek Agrawal",
   "license": "ISC",
   "scripts": {
     "test-ios": "wdio ./config/wdio.ios.app.conf.js",
