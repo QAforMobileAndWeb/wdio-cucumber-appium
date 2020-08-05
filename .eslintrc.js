@@ -10,12 +10,12 @@ module.exports = {
         'no-magic-numbers': 'off',
         'no-useless-escape': 'off',
         'no-underscore-dangle': 'off',
-        "prettier/prettier": ["error"]
+        'prettier/prettier': ['error'],
     },
     globals: {
-        "$": "readonly",
-        "$$": "readonly",
-        "driver": "readonly"
+        $: 'readonly',
+        $$: 'readonly',
+        driver: 'readonly',
     },
     plugins: ['prettier'],
     extends: ['airbnb-base', 'prettier'],

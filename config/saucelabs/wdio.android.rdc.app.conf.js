@@ -11,8 +11,8 @@ config.specs = ['./src/features/**/*.feature'];
 config.capabilities = [
     {
         // testobject_app_id: '1', // The reference id to the app out of all versions
-        testobject_api_key: '29C5EB8CAEA8480AADB7FF645E54CAC7', // The api key that has a reference to the android app-project in the saucelabs cloud
-        testobject_test_name: 'Android sample app test', // The name of the test for in the cloud
+        testobject_api_key: '776A1A6D1D424EAEA57C3CEC4424C413', // The api key that has a reference to the android app-project in the saucelabs cloud
+        testobject_test_name: 'Android app test', // The name of the test for in the cloud
         phoneOnly: true,
         tabletOnly: false,
         automationName: 'UiAutomator2',
